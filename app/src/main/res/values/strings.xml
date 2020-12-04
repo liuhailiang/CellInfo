@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CellInfo</string>
+    <string name="signal_excellent">Excellent</string>
+    <string name="signal_good">Good</string>
+    <string name="signal_fair">Fair</string>
+    <string name="signal_poor">Poor</string>
+
+    <string name="in">Download</string>
+    <string name="inactive">Inactive</string>
+    <string name="inout">Download/Upload</string>
+    <string name="out">Upload</string>
+    <string name="turnedoff">Turned off</string>
+    <string name="unk">Unknown</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="detinfo_value_width">140dp</dimen>
+    <dimen name="detinfo_value_text_size">20sp</dimen>
+    <dimen name="detinfo_value_label_size">20sp</dimen>
+</resources>
